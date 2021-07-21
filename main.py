@@ -189,7 +189,6 @@ while(True):
 
 	#print_list(ready_queue)
 
-	# FIX THIS BREAK CONDITION, KEEPING THIS FOR TESTING
 	# Fixed the condition already, never updated the above comment
 	if check_if_burst_is_finished(ready_queue, stage):
 		break
